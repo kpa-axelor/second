@@ -1,3 +1,5 @@
 hii 
 this is file t5.txt
+hello how are you
 welcome
+
