@@ -1,0 +1,2 @@
+hii 
+this is file t6.txt
